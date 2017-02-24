@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-protobuf-benchmark",
+  "version": "1.0.0",
+  "description": "protobuf benchmark in nodejs",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HQidea/nodejs-protobuf-benchmark.git"
+  },
+  "keywords": [
+    "protobuf",
+    "benchmark",
+    "nodejs",
+    "protobufjs",
+    "google-protobuf"
+  ],
+  "author": "HQidea <hqidea@yahoo.com>",
+  "dependencies": {
+    "benchmark": "^2.1.3",
+    "chalk": "^1.1.3",
+    "google-protobuf": "^3.2.0",
+    "long": "^3.2.0",
+    "protobufjs": "^6.6.3"
+  }
+}
